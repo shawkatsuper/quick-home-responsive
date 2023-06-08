@@ -1,0 +1,504 @@
+/* ######### Media Quiry CSS Start #########  */
+
+/* ######## Galagy Fold Device ######## */
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+    /* CSS Start */
+        
+    .container {
+        width: 100%;
+        margin: 0px auto;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .header .logo{
+        display:  block;
+        text-align: center;
+    }
+    .nav-menu {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .nav-menu li a{
+        font-size: 11px;
+        margin: 10px 4px 0px;
+    }
+    .banner{
+        padding: 15px 0px;
+    }
+    .banner h1{
+        font-size: 25px;
+        line-height: 1.3em;
+    }
+    .banner p{
+        font-size: 11px;
+        line-height: 1.7em;
+    }
+    .banner img{
+        width: 65%;
+    }
+    .success{
+        padding: 0px 0px 10px;
+    
+    }
+    .left-text {
+        text-align: center;
+    }
+    .left-text h1{
+        font-size: 25px;
+        line-height: 1.3em;
+        margin: 0px;
+    }
+    .left-text p{
+        font-size: 11px;
+        line-height: 1.7em;
+        margin: 0px;
+    }
+    .right-text h1 {
+        font-size: 25px;
+        line-height: 1.3em;
+        text-align: center;
+        margin: 10px 0px;
+    }
+    .feature{
+        margin: 5px 0px 20px;
+        padding:0px;
+    }
+    .feature-1{
+        width: 72%;
+        padding: 40px 40px;
+        margin: 10px 0px;
+        text-align: center;
+    }
+    
+    .feature-1 h4{
+        font-size: 16px;
+        line-height: 1.5em;
+    }
+    .feature-1 p{
+        font-size: 11px;
+        line-height: 1.7em;
+    }
+    .footer{
+        padding: 5px 0px;
+    }
+    .footer p{
+        font-size: 11px;
+        
+    }
+    
+    /* CSS End */
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    /* CSS Start */
+        
+    .container {
+        width: 100%;
+        margin: 0px auto;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .header .logo{
+        display:  block;
+        text-align: center;
+    }
+    .nav-menu {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .nav-menu li a{
+        font-size: 12px;
+        margin: 10px 5px 0px;
+    }
+    .banner{
+        padding: 15px 0px;
+    }
+    .banner h1{
+        font-size: 30px;
+        line-height: 1.3em;
+    }
+    .banner p{
+        font-size: 12px;
+        line-height: 1.7em;
+    }
+    .banner img{
+        width: 75%;
+    }
+    .success{
+        padding: 0px 0px 15px;
+    
+    }
+    .left-text {
+        text-align: center;
+    }
+    .left-text h1{
+        font-size: 30px;
+        line-height: 1.3em;
+        margin: 0px;
+    }
+    .left-text p{
+        font-size: 12px;
+        line-height: 1.7em;
+        margin: 0px;
+    }
+    .right-text h1 {
+        font-size: 30px;
+        line-height: 1.3em;
+        text-align: center;
+        margin: 10px 0px;
+    }
+    .feature{
+        margin: 5px 0px 10px;
+        padding:0px;
+    }
+    .feature-1{
+        width: 75%;
+        padding: 40px 40px;
+        margin: 10px 0px;
+        text-align: center;
+    }
+    
+    .feature-1 h4{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .feature-1 p{
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .footer{
+        padding: 10px 0px;
+    }
+    .footer p{
+        font-size: 12px;
+        
+    }
+    .feature.pages {
+        padding: 10px 0px;
+        text-align: center;
+        height:max-content;
+    }
+
+
+    /* CSS End */
+}
+  /* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+    /* CSS Start */
+
+    .container {
+        width: 100%;
+        margin: 0px auto;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .header .logo{
+        display:  block;
+        text-align: center;
+    }
+    .nav-menu {
+        /* width: 100%; */
+        float: left;
+        text-align: center;
+    }
+    .nav-menu li a{
+        font-size: 14px;
+        margin: 10px 5px 0px;
+    }
+    .banner{
+        padding: 40px 0px;
+    }
+    .banner h1{
+        font-size: 40px;
+        line-height: 1.3em;
+    }
+    .banner p{
+        font-size: 14px;
+        line-height: 1.7em;
+    }
+    .banner img{
+        width: 70%;
+    }
+    .success{
+        padding: 0px 0px 25px;
+    
+    }
+    .left-text {
+        text-align: center;
+    }
+    .left-text h1{
+        font-size: 40px;
+        line-height: 1.3em;
+        margin: 0px;
+    }
+    .left-text p{
+        font-size: 14px;
+        line-height: 1.7em;
+        margin: 0px;
+    }
+    .right-text h1 {
+        font-size: 40px;
+        line-height: 1.3em;
+        text-align: center;
+        margin: 20px 0px 20px;
+    }
+    .feature{
+        margin: 10px 0px 20px;
+        padding:0px;
+    }
+    .feature-1{
+        width: 95%;
+        padding: 40px 40px;
+        margin: 15px 0px;
+        text-align: center;
+    }
+    
+    .feature-1 h4{
+        font-size: 20px;
+        line-height: 1.5em;
+    }
+    .feature-1 p{
+        font-size: 14px;
+        line-height: 1.7em;
+    }
+    .footer{
+        padding: 15px 0px;
+    }
+    .footer p{
+        font-size: 14px;
+        
+    }
+    .feature.pages {
+        padding: 10px 0px;
+        text-align: center;
+        height:max-content;
+    }
+
+     /* CSS End */
+    
+  }
+
+
+/* 
+##Device = Most of the Smartphones Mobiles (Portrait)
+##Screen = B/w 320px to 479px
+*/
+
+/* 
+##Device = Low Resolution Tablets, Mobiles (Landscape)
+##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+/* CSS Start */
+
+.container {
+    width: 100%;
+    /* margin: 0px auto; */
+}
+.col-6{
+    width: 100%;
+}
+.col-4{
+    width: 100%;
+}
+.header .logo{
+    display:  block;
+    text-align: center;
+}
+.nav-menu {
+    /* width: 100%; */
+    float: left;
+    text-align: center;
+}
+.nav-menu li a{
+    font-size: 14px;
+    margin: 10px 5px 0px;
+}
+.banner{
+    padding: 40px 0px;
+}
+.banner h1{
+    font-size: 40px;
+    line-height: 1.3em;
+}
+.banner p{
+    font-size: 14px;
+    line-height: 1.7em;
+}
+.banner img{
+    width: 70%;
+}
+.success{
+    padding: 0px 0px 25px;
+
+}
+.left-text {
+    text-align: center;
+}
+.left-text h1{
+    font-size: 40px;
+    line-height: 1.3em;
+    margin: 0px;
+}
+.left-text p{
+    font-size: 14px;
+    line-height: 1.7em;
+    margin: 0px;
+}
+.right-text h1 {
+    font-size: 40px;
+    line-height: 1.3em;
+    text-align: center;
+    margin: 20px 0px 20px;
+}
+.feature{
+    margin: 10px 0px 20px;
+    padding:0px;
+}
+.feature-1{
+    width: 90%;
+    padding: 40px 40px;
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.feature-1 h4{
+    font-size: 20px;
+    line-height: 1.5em;
+}
+.feature-1 p{
+    font-size: 14px;
+    line-height: 1.7em;
+}
+.footer{
+    padding: 15x 0px;
+}
+.footer p{
+    font-size: 14px;
+    
+}
+
+ /* CSS End */
+
+}
+
+/* 
+##Device = Tablets, Ipads (portrait)
+##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width:768px) and (max-width:1024px) {
+/* CSS Start */
+
+.container {
+    width: 100%;
+    /* margin: 0px auto; */
+}
+.col-6{
+    width: 100%;
+}
+.col-4{
+    width: 100%;
+}
+.header .logo{
+    display:  block;
+    text-align: center;
+}
+.nav-menu {
+    /* width: 100%; */
+    float: left;
+    text-align: center;
+}
+.nav-menu li a{
+    font-size: 16px;
+    margin: 10px 5px 0px;
+}
+.banner{
+    padding: 40px 0px;
+}
+.banner h1{
+    font-size: 50px;
+    line-height: 1.3em;
+}
+.banner p{
+    font-size: 16px;
+    line-height: 1.7em;
+}
+.banner img{
+    width: 75%;
+}
+.success{
+    padding: 0px 0px 25px;
+
+}
+.left-text {
+    text-align: center;
+}
+.left-text h1{
+    font-size: 50px;
+    line-height: 1.3em;
+    margin: 0px;
+}
+.left-text p{
+    font-size: 16px;
+    line-height: 1.7em;
+    margin: 0px;
+}
+.right-text h1 {
+    font-size: 50px;
+    line-height: 1.3em;
+    text-align: center;
+    margin: 20px 0px 20px;
+}
+.feature{
+    margin: 10px 0px 20px;
+    padding:0px;
+}
+.feature-1{
+    width: 90%;
+    padding: 40px 40px;
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.feature-1 h4{
+    font-size: 24px;
+    line-height: 1.5em;
+}
+.feature-1 p{
+    font-size: 16px;
+    line-height: 1.7em;
+}
+.footer{
+    padding: 20px 0px;
+}
+.footer p{
+    font-size: 16px;
+    
+}
+/* CSS End */
+}
